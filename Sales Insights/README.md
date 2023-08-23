@@ -70,3 +70,11 @@ Power BI Visualization
     - Top 5 Products
  - Added Month slicer buttons on Top
 
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - Dataset provided by https://www.youtube.com/@codebasics
+ 
