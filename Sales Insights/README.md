@@ -1,5 +1,5 @@
 
-# Sales Insights Using Tableau
+# Sales Insights Using PowerBI
 
 Purpose
 
