@@ -53,5 +53,20 @@ Data Cleaning/Transformation
     - Filter out the 2 non-India records from markets table
     - Filter out all sales_amount that are for 0 INR or less from transactions table
     - Created new column convert_sales_amount with if/else to convert USD if necessary to Indian Rupee
-        - Found 2 more USD that original SQL query did not pick up
-        - Cleaned up as well - converted
+        - Note: I used current exchange rate 82.5 (will update with pull of conversion table)
+
+- New Data Problem Found
+    - Checking both Power BI and MySQL, there are two DISTINCT INR and two DISTINCT USD currencies under the transactions.currency column
+    - I am making the conclusion that these are duplicates based on the USD output of 4 records where 2 look identical to the other 2
+    - Solution: Filter out duplicates
+    - Return to PowerQuery
+    - Filter out duplicate currencies
+
+Power BI Visualization
+ - Created 4 bar charts
+    - Revenue by Customer
+    - Sales QTY by Customer
+    - Revenue by Region
+    - Top 5 Products
+ - Added Month slicer buttons on Top
+
