@@ -3,7 +3,7 @@
 
 Purpose
 
-The purpose of this project is to decipher sales insights specifically in India that were not visible before to assist the sales team make data drivien decisions and to automate the insights to reduce the time spent in manually gathering data.
+The purpose of this project is to decipher sales insights specifically in India that were not visible before to assist the sales team make data driven decisions and to automate the insights to reduce the time spent in manually gathering data.
 
 
 Stakeholders
